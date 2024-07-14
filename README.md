@@ -1,12 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<style> 
+  body {
+  background-color: blue;
+}
+h1 {
+  color: red;
+  text-align: center;
+}
+p {
+  font-size: 30px;
+}
+</style>
 </head>
 <body>
-
-<h1>My First Book</h1>
-<p>My first paragraph.</p>
-
+<h1>My Program</h1>
+<p>Program.</p>
 </body>
 </html>
